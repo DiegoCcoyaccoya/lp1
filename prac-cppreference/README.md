@@ -61,4 +61,4 @@ https://doc-00-6o-apps-viewer.googleusercontent.com/viewer/secure/pdf/ibmbvgludt
 | **Prueba[^2]** | Se tomaron en cuenta todas las consideraciones y recomendaciones, lo que evidencia un trabajo en equipo | -0 |
 |  | **Total** | **20** |
 
-Si el docente solicita un video, debe cargarse en Youtube o Drive y sólo debe entregarse la URL pública, sin que se solicite logi
+Si el docente solicita un video, debe cargarse en Youtube o Drive y sólo debe entregarse la URL pública, sin que se solicite login alguno. Es recomendable incluir la URL tanto en el README.md como en el informe.
