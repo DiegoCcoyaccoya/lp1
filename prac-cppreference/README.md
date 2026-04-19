@@ -6,14 +6,10 @@ Identifiers en C++
 ## Nombre
 Diego Humberto Ccoyaccoya Huillca
 
----
-
 ## Descripción
 En esta práctica se estudian los identifiers en C++, los cuales son fundamentales en la programación porque permiten nombrar variables, funciones, clases y otros elementos dentro de un programa.
 
 Se analizan sus reglas de construcción, sus características principales y su funcionamiento dentro del lenguaje. Además, se presentan ejemplos que permiten comprender cómo se utilizan los identifiers en situaciones reales de programación.
-
----
 
 ## Desarrollo de la práctica
 
