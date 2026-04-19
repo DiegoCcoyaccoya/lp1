@@ -55,10 +55,15 @@ https://doc-00-6o-apps-viewer.googleusercontent.com/viewer/secure/pdf/ibmbvgludt
 
 ## Rúbrica
 | **CPPReference** | Revisar la documentación oficial y otros | 5 |
-| **Ejercicios** | Elaborar diferentes ejercicios para facilitar su comprensión | 5 |
+
+| **Ejercicios** | Elaborar diferentes ejercicios para facilitar su comprensión | 4 |
+
 | **Informe** | Elaborar un informe detallado en README.md y en formato PDF | 5 |
+
 | **Exposición** | Expone el tema de forma clara, completa e interactiva | 5 |
+
 | **Prueba[^2]** | Se tomaron en cuenta todas las consideraciones y recomendaciones, lo que evidencia un trabajo en equipo | -0 |
+
 |  | **Total** | **20** |
 
 Si el docente solicita un video, debe cargarse en Youtube o Drive y sólo debe entregarse la URL pública, sin que se solicite login alguno. Es recomendable incluir la URL tanto en el README.md como en el informe.
