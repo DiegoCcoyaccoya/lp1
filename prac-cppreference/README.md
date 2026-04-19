@@ -44,7 +44,7 @@ Se observa la diferencia entre mayúsculas y minúsculas en identifiers.
 
 ## Captura del programa
 
----
+![captura](image.png)
 
 ## Archivo PDF
 https://doc-00-6o-apps-viewer.googleusercontent.com/viewer/secure/pdf/ibmbvgludtsd3ptgf3n38eut1qvca0v5/016lebbrn5vt2hl5nsc4gt2bl91ogppg/1776618525000/drive/08220957579491000971/ACFrOgCYZ_IWCOZgXs_i6upaNqPWtREANZ8lMPtU-XGsOMXNddrR5S-Rc1MKC0-9cwYj8KausxHweUHSNAROJ1RZDqGS3A5AgwCLooCIM3Xzkt4H4JIIXOA4twcEVjrzHnEH5UEKIslN5tuRbNLEFypbk9EOFm6X3yyidNdiSbtaqbwgDNH-phTN9sHKXAdAiqzQAWkXDQqwoeXLHERbVA-bOc_XFDwnj8Xod6708UBIFuf5Y1wN-qAa_5NbR9U=?print=true&nonce=ht9o838ojs668&user=08220957579491000971&hash=su14hd1f9o8unkvncv4g3q99b64id1db
