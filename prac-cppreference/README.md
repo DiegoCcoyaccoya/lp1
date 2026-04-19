@@ -1,21 +1,16 @@
-# Identifiers en C++
+# Práctica - C++ Reference
 
-## Definición
-Los identifiers son nombres que se usan en C++ para variables, funciones, clases y otros elementos del programa.
+## Tema
+Identifiers en C++
 
-## Reglas
-- No pueden empezar con números
-- No pueden tener espacios
-- No pueden usar símbolos especiales
-- No pueden ser palabras reservadas
+## Nombre
+(pon tu nombre)
 
-## Características
-- Son sensibles a mayúsculas y minúsculas
-- Pueden tener diferentes longitudes
-- Cada carácter es significativo
+## Descripción
+Este trabajo presenta el uso de identifiers en C++, incluyendo su definición, reglas y ejemplos prácticos.
 
-## Importancia
-Los identifiers permiten organizar el código, hacerlo entendible y evitar errores. Son fundamentales en el desarrollo profesional.
-
-## Ejemplo
-Ver archivo identifiers.cpp
+## Contenido
+- Explicación teórica
+- Ejemplo en código
+- Captura del programa
+- Archivo PDF de la exposición
