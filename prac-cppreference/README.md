@@ -47,7 +47,6 @@ Se observa la diferencia entre mayúsculas y minúsculas en identifiers.
 ---
 
 ## Captura del programa
-(Aquí puedes insertar tu imagen después de subirla)
 
 ---
 
