@@ -4,13 +4,64 @@
 Identifiers en C++
 
 ## Nombre
-(pon tu nombre)
+(TU NOMBRE)
+
+---
 
 ## Descripción
-Este trabajo presenta el uso de identifiers en C++, incluyendo su definición, reglas y ejemplos prácticos.
+En esta práctica se estudian los identifiers en C++, los cuales son fundamentales en la programación porque permiten nombrar variables, funciones, clases y otros elementos dentro de un programa.
 
-## Contenido
-- Explicación teórica
-- Ejemplo en código
-- Captura del programa
-- Archivo PDF de la exposición
+Se analizan sus reglas de construcción, sus características principales y su funcionamiento dentro del lenguaje. Además, se presentan ejemplos que permiten comprender cómo se utilizan los identifiers en situaciones reales de programación.
+
+---
+
+## Desarrollo de la práctica
+
+### Definición
+Los identifiers son nombres que se utilizan en C++ para variables, funciones, clases y otros elementos del programa.
+
+### Reglas
+- No pueden empezar con números
+- No pueden tener espacios
+- No pueden usar símbolos especiales
+- No pueden ser palabras reservadas
+
+### Características
+- Son sensibles a mayúsculas y minúsculas
+- Pueden tener diferentes longitudes
+- Cada carácter es significativo
+
+---
+
+## Ejercicios / Ejemplos
+
+Ejemplo 1:
+
+
+Ejemplo 2:
+Se muestra el uso de identifiers en una operación.
+
+Ejemplo 3:
+Se observa la diferencia entre mayúsculas y minúsculas en identifiers.
+
+---
+
+## Captura del programa
+(Aquí puedes insertar tu imagen después de subirla)
+
+---
+
+## Archivo PDF
+Se adjunta el PDF de la exposición.
+
+---
+
+## Rúbrica
+| **CPPReference** | Revisar la documentación oficial y otros | 5 |
+| **Ejercicios** | Elaborar diferentes ejercicios para facilitar su comprensión | 5 |
+| **Informe** | Elaborar un informe detallado en README.md y en formato PDF | 5 |
+| **Exposición** | Expone el tema de forma clara, completa e interactiva | 5 |
+| **Prueba[^2]** | Se tomaron en cuenta todas las consideraciones y recomendaciones, lo que evidencia un trabajo en equipo | -0 |
+|  | **Total** | **20** |
+
+Si el docente solicita un video, debe cargarse en Youtube o Drive y sólo debe entregarse la URL pública, sin que se solicite logi
