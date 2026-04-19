@@ -38,10 +38,12 @@ Se declara una variable con un identifier válido.
 
 Ejemplo 2:
 Se muestra el uso de identifiers en una operación.
+
 ![ejemplo2](ejemplo2.png)
 
 Ejemplo 3:
 Se observa la diferencia entre mayúsculas y minúsculas en identifiers.
+
 ![ejemplo3](ejemplo3.png)
 
 ## Captura del programa
