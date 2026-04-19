@@ -32,15 +32,15 @@ Los identifiers son nombres que se utilizan en C++ para variables, funciones, cl
 ## Ejercicios / Ejemplos
 
 Ejemplo 1:
-
+![ejemplo1]](imagen.png)
 
 Ejemplo 2:
 Se muestra el uso de identifiers en una operación.
+![ejemplo2]]()
 
 Ejemplo 3:
 Se observa la diferencia entre mayúsculas y minúsculas en identifiers.
-
----
+![ejemplo3]()
 
 ## Captura del programa
 
